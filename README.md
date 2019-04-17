@@ -12,4 +12,4 @@ In this example, the following steps are performed
     • The RSSI value is then used to actuate the buzzer connected to the client device
     • The repetition intensity of beeps represent proximity of the client from the server
 
-This particular example can be used to plan a Treasure Hunt game.
+This particular example can be used to play a Treasure Hunt game.
